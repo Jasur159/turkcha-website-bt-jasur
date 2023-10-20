@@ -754,7 +754,7 @@ footer {
     grid-area: 5/3/7/4;
     font-size: 14px;
     line-height: 20px;
-    padding: 10px 20px;
+    padding: 17px 25px;
   }
   .logo_box:nth-child(5) {
     grid-area: 3/1/5/2;
